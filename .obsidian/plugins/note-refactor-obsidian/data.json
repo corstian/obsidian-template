@@ -1,0 +1,11 @@
+{
+  "includeFirstLineAsNoteHeading": false,
+  "excludeFirstLineInNote": false,
+  "headingFormat": "#",
+  "newFileLocation": 2,
+  "customFolder": "/zettelkasten/{{date:YYYY}}/{{date:MM}}-{{date:MMMM}}/",
+  "fileNamePrefix": "{{date:YYYYMMDDHHmm}} ",
+  "transcludeByDefault": false,
+  "noteLinkTemplate": "",
+  "refactoredNoteTemplate": ""
+}

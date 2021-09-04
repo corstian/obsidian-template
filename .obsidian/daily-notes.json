@@ -1,0 +1,5 @@
+{
+  "folder": "daily-log",
+  "autorun": false,
+  "template": "templates/daily-log"
+}
